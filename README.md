@@ -24,6 +24,12 @@ Then fill in your local `apiKey` in `config.local.json`.
 npm start
 ```
 
+After a global install, launch the interactive shell with:
+
+```bash
+scli
+```
+
 ## Test
 
 ```bash
