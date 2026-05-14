@@ -1,0 +1,6 @@
+{
+  "apiKey": "YOUR_DEEPSEEK_API_KEY",
+  "baseUrl": "https://api.deepseek.com",
+  "model": "deepseek-v4-flash",
+  "proxyUrl": "http://127.0.0.1:7897"
+}
