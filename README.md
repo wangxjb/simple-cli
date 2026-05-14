@@ -1,4 +1,4 @@
-# minimal-codex-cli
+# simple-cli
 
 A minimal Codex-like CLI backed by DeepSeek.
 

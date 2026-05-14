@@ -21,6 +21,6 @@ test('executeToolCall can read a file inside the workspace', async () => {
   }, process.cwd());
 
   assert.equal(result.ok, true);
-  assert.match(result.content, /minimal-codex-cli/);
+  assert.match(result.content, /simple-cli/);
   assert.equal(path.isAbsolute(result.path), true);
 });

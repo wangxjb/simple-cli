@@ -194,7 +194,7 @@ function createTerminalApp() {
    */
   function renderHeader() {
     header.setContent(
-      ` Minimal Codex CLI    ${config.model}    ${state.status}\n` +
+      ` Simple CLI    ${config.model}    ${state.status}\n` +
       ' Enter 发送    Esc 清空    ↑/↓ 滚动    PgUp/PgDn 翻页    End 到底部    Ctrl+C 退出'
     );
   }
